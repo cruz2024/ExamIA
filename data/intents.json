@@ -1,0 +1,86 @@
+{
+  "saludo": [
+    "hola",
+    "buenos dias",
+    "buenas tardes",
+    "buenas noches",
+    "que tal",
+    "hey",
+    "hola asistente",
+    "saludos",
+    "hola como estas",
+    "buen dia"
+  ],
+  "internet": [
+    "no tengo internet",
+    "el wifi no conecta",
+    "la red esta lenta",
+    "se desconecta el internet",
+    "no puedo navegar",
+    "mi conexion falla",
+    "el router no funciona",
+    "wifi sin acceso",
+    "internet muy lento",
+    "no detecta redes"
+  ],
+  "equipo": [
+    "mi computadora no enciende",
+    "la laptop esta lenta",
+    "la pantalla esta negra",
+    "el equipo se reinicia",
+    "mi pc se congela",
+    "la computadora se calienta",
+    "el teclado no funciona",
+    "el mouse falla",
+    "mi laptop no carga",
+    "la pantalla parpadea"
+  ],
+  "acceso": [
+    "olvide mi contrasena",
+    "no puedo iniciar sesion",
+    "mi cuenta esta bloqueada",
+    "no puedo entrar al correo",
+    "recuperar mi clave",
+    "mi usuario no funciona",
+    "error de autenticacion",
+    "rechaza mi contrasena",
+    "no puedo entrar al sistema",
+    "perdi mi acceso"
+  ],
+  "programacion": [
+    "necesito ayuda con python",
+    "mi codigo tiene un error",
+    "como usar una variable",
+    "explicame un bucle",
+    "que es una funcion",
+    "ayuda con java",
+    "como instalar python",
+    "mi programa no ejecuta",
+    "explicame una lista",
+    "como corregir un traceback"
+  ],
+  "solicitud": [
+    "quiero crear un ticket",
+    "necesito soporte tecnico",
+    "registrar una incidencia",
+    "abrir una solicitud",
+    "reportar una falla",
+    "quiero ayuda de un tecnico",
+    "crear un reporte",
+    "solicitar asistencia",
+    "abrir un ticket",
+    "registrar mi problema"
+  ],
+  "despedida": [
+    "adios",
+    "hasta luego",
+    "nos vemos",
+    "muchas gracias",
+    "gracias por ayudarme",
+    "hasta pronto",
+    "eso es todo",
+    "chao",
+    "terminamos",
+    "gracias adios"
+  ]
+}

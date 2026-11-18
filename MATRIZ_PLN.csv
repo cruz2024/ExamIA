@@ -1,0 +1,71 @@
+﻿Intencion,Numero,Expresion,Entidades disponibles
+saludo,1,hola,dispositivo; sistema; prioridad
+saludo,2,buenos dias,dispositivo; sistema; prioridad
+saludo,3,buenas tardes,dispositivo; sistema; prioridad
+saludo,4,buenas noches,dispositivo; sistema; prioridad
+saludo,5,que tal,dispositivo; sistema; prioridad
+saludo,6,hey,dispositivo; sistema; prioridad
+saludo,7,hola asistente,dispositivo; sistema; prioridad
+saludo,8,saludos,dispositivo; sistema; prioridad
+saludo,9,hola como estas,dispositivo; sistema; prioridad
+saludo,10,buen dia,dispositivo; sistema; prioridad
+internet,1,no tengo internet,dispositivo; sistema; prioridad
+internet,2,el wifi no conecta,dispositivo; sistema; prioridad
+internet,3,la red esta lenta,dispositivo; sistema; prioridad
+internet,4,se desconecta el internet,dispositivo; sistema; prioridad
+internet,5,no puedo navegar,dispositivo; sistema; prioridad
+internet,6,mi conexion falla,dispositivo; sistema; prioridad
+internet,7,el router no funciona,dispositivo; sistema; prioridad
+internet,8,wifi sin acceso,dispositivo; sistema; prioridad
+internet,9,internet muy lento,dispositivo; sistema; prioridad
+internet,10,no detecta redes,dispositivo; sistema; prioridad
+equipo,1,mi computadora no enciende,dispositivo; sistema; prioridad
+equipo,2,la laptop esta lenta,dispositivo; sistema; prioridad
+equipo,3,la pantalla esta negra,dispositivo; sistema; prioridad
+equipo,4,el equipo se reinicia,dispositivo; sistema; prioridad
+equipo,5,mi pc se congela,dispositivo; sistema; prioridad
+equipo,6,la computadora se calienta,dispositivo; sistema; prioridad
+equipo,7,el teclado no funciona,dispositivo; sistema; prioridad
+equipo,8,el mouse falla,dispositivo; sistema; prioridad
+equipo,9,mi laptop no carga,dispositivo; sistema; prioridad
+equipo,10,la pantalla parpadea,dispositivo; sistema; prioridad
+acceso,1,olvide mi contrasena,dispositivo; sistema; prioridad
+acceso,2,no puedo iniciar sesion,dispositivo; sistema; prioridad
+acceso,3,mi cuenta esta bloqueada,dispositivo; sistema; prioridad
+acceso,4,no puedo entrar al correo,dispositivo; sistema; prioridad
+acceso,5,recuperar mi clave,dispositivo; sistema; prioridad
+acceso,6,mi usuario no funciona,dispositivo; sistema; prioridad
+acceso,7,error de autenticacion,dispositivo; sistema; prioridad
+acceso,8,rechaza mi contrasena,dispositivo; sistema; prioridad
+acceso,9,no puedo entrar al sistema,dispositivo; sistema; prioridad
+acceso,10,perdi mi acceso,dispositivo; sistema; prioridad
+programacion,1,necesito ayuda con python,dispositivo; sistema; prioridad
+programacion,2,mi codigo tiene un error,dispositivo; sistema; prioridad
+programacion,3,como usar una variable,dispositivo; sistema; prioridad
+programacion,4,explicame un bucle,dispositivo; sistema; prioridad
+programacion,5,que es una funcion,dispositivo; sistema; prioridad
+programacion,6,ayuda con java,dispositivo; sistema; prioridad
+programacion,7,como instalar python,dispositivo; sistema; prioridad
+programacion,8,mi programa no ejecuta,dispositivo; sistema; prioridad
+programacion,9,explicame una lista,dispositivo; sistema; prioridad
+programacion,10,como corregir un traceback,dispositivo; sistema; prioridad
+solicitud,1,quiero crear un ticket,dispositivo; sistema; prioridad
+solicitud,2,necesito soporte tecnico,dispositivo; sistema; prioridad
+solicitud,3,registrar una incidencia,dispositivo; sistema; prioridad
+solicitud,4,abrir una solicitud,dispositivo; sistema; prioridad
+solicitud,5,reportar una falla,dispositivo; sistema; prioridad
+solicitud,6,quiero ayuda de un tecnico,dispositivo; sistema; prioridad
+solicitud,7,crear un reporte,dispositivo; sistema; prioridad
+solicitud,8,solicitar asistencia,dispositivo; sistema; prioridad
+solicitud,9,abrir un ticket,dispositivo; sistema; prioridad
+solicitud,10,registrar mi problema,dispositivo; sistema; prioridad
+despedida,1,adios,dispositivo; sistema; prioridad
+despedida,2,hasta luego,dispositivo; sistema; prioridad
+despedida,3,nos vemos,dispositivo; sistema; prioridad
+despedida,4,muchas gracias,dispositivo; sistema; prioridad
+despedida,5,gracias por ayudarme,dispositivo; sistema; prioridad
+despedida,6,hasta pronto,dispositivo; sistema; prioridad
+despedida,7,eso es todo,dispositivo; sistema; prioridad
+despedida,8,chao,dispositivo; sistema; prioridad
+despedida,9,terminamos,dispositivo; sistema; prioridad
+despedida,10,gracias adios,dispositivo; sistema; prioridad

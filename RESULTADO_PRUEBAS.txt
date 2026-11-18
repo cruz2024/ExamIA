@@ -1,0 +1,23 @@
+Python 3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]
+test_contexto_persistente (test_taskbot.Pruebas.test_contexto_persistente) ... ok
+test_division_mensajes (test_taskbot.Pruebas.test_division_mensajes) ... ok
+test_error_no_inventa_respuesta (test_taskbot.Pruebas.test_error_no_inventa_respuesta) ... ok
+test_limites (test_taskbot.Pruebas.test_limites) ... ok
+test_matriz_y_entidades (test_taskbot.Pruebas.test_matriz_y_entidades) ... ok
+test_offset (test_taskbot.Pruebas.test_offset) ... ok
+test_preguntas_generales_llegan_al_modelo (test_taskbot.Pruebas.test_preguntas_generales_llegan_al_modelo) ... ok
+test_red_caida (test_taskbot.Pruebas.test_red_caida) ... ok
+test_reiniciar_y_borrar (test_taskbot.Pruebas.test_reiniciar_y_borrar) ... ok
+test_respuesta_invalida (test_taskbot.Pruebas.test_respuesta_invalida) ... ok
+test_seleccion_modelo_local (test_taskbot.Pruebas.test_seleccion_modelo_local) ... ok
+test_sin_modelo_no_arranca (test_taskbot.Pruebas.test_sin_modelo_no_arranca) ... ok
+test_solicitud_real_formada (test_taskbot.Pruebas.test_solicitud_real_formada) ... ok
+test_ticket_explicito (test_taskbot.Pruebas.test_ticket_explicito) ... ok
+test_validacion_y_cancelacion (test_taskbot.Pruebas.test_validacion_y_cancelacion) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.139s
+
+OK
+
+Servicios externos simulados. No demuestra generación real del modelo ni Telegram con token del usuario.

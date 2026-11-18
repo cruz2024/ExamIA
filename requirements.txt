@@ -1,0 +1,2 @@
+# Solo biblioteca estándar de Python 3.12.0.
+# Ollama se instala por separado como aplicación.

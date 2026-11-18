@@ -1,0 +1,11 @@
+﻿Requisito,Estado
+Módulos PLN y diálogo,Conservados
+Matriz de al menos 5 intenciones,7 intenciones y 70 expresiones
+Entidades,3 tipos
+Memoria,SQLite por usuario
+Interfaz,Solo Telegram
+Respuestas,Generadas por Ollama local
+Fallback,"Aviso de error, sin respuesta prefabricada"
+Código comentado,Retirado a petición del autor; diferencia respecto de la rúbrica
+Dominio especializado,"Matriz técnica conservada, preguntas generales permitidas"
+Avances y defensa,Pendientes de acreditar con evidencias reales
